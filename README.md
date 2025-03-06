@@ -1,4 +1,4 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wurdle*
 
 Submitted by: **Carlvensky St Fleur**
 
